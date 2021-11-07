@@ -1,0 +1,13 @@
+Package: cylinder
+Name: Cylinder Reborn
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Description: Make your icons dance
+Maintainer: Ethan Blair
+Author: Ethan Blair
+Section: Tweaks
+Version: 1.1
+Icon: null
+Depiction: null
+Tag: compatible_min::ios11.0
+Installed-Size: 1384
